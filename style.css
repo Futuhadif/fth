@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "font ex";
+    src: url('font\ 1.ttf');
+}
 #body{
     background-image: url(gambar/bg\ doodle.png);
 }
@@ -31,4 +35,7 @@
 .gambar{
     margin-left: 250px;
     width: 200px;
+}
+.font{
+    font-family: "font ex";
 }
